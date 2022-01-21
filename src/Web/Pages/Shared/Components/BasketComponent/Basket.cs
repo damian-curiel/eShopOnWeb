@@ -1,11 +1,11 @@
-﻿using System;
+
+using System;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.eShopWeb.Infrastructure.Identity;
 using Microsoft.eShopWeb.Web.Interfaces;
 using Microsoft.eShopWeb.Web.ViewModels;
-
 
 namespace Microsoft.eShopWeb.Web.Pages.Shared.Components.BasketComponent;
 
