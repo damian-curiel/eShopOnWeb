@@ -6,6 +6,7 @@ using Microsoft.eShopWeb.Infrastructure.Identity;
 using Microsoft.eShopWeb.Web.Interfaces;
 using Microsoft.eShopWeb.Web.ViewModels;
 
+
 namespace Microsoft.eShopWeb.Web.Pages.Shared.Components.BasketComponent;
 
 public class Basket : ViewComponent
